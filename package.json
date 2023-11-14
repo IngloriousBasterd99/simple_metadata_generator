@@ -1,0 +1,11 @@
+{
+  "name": "simple_metadata_generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "InglouriousBasterd <crypto@westmariculture.com>",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "fs": "^0.0.1-security"
+  }
+}
